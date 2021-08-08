@@ -1,0 +1,7 @@
+.footerStyle {
+    gap: var(--space-xl);
+    display: grid;
+    text-align: center;
+    color: var(--text-color-secondary);
+    margin-top: var(--space-3xl);
+}
